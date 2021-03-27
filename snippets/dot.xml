@@ -62,6 +62,7 @@
   <project path="external/selinux" name="android_external_selinux" remote="dot" />
   <project path="external/asus/stitchimage" name="Evolution-X/external_asus_stitchimage" remote="github" revision="elle" />
   <project path="external/faceunlock" name="Evolution-X/external_faceunlock" remote="github" revision="elle" />
+  <project path="external/airbnb-lottie" name="Project-LegionOS/external_airbnb-lottie" remote="github" revision="11" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="dot" />
