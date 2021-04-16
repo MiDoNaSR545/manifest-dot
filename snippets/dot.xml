@@ -46,7 +46,7 @@
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" remote="dot" />
 
   <!-- Dot Repos -->
-  <project path="vendor/dot" name="ElectroPerf/android_vendor_dot" remote="github" revision="ele2" />
+  <project path="vendor/dot" name="MiDoNaSR545/android_vendor_dot" remote="github" revision="ele2" />
   <project path="vendor/gms" name="android_vendor_gms" remote="dot-gitlab" />
   <project path="device/dot/sepolicy" name="ElectroPerf/android_device_dot_sepolicy" remote="github" revision="ele" />
   <project path="device/qcom/sepolicy_vndr" name="android_device_qcom_sepolicy_vndr" remote="dot" />
